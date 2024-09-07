@@ -1,0 +1,1 @@
+This repo is intended to be used to practice with git.  Hi!  If you are reading this, have a wonderful day! 
